@@ -1,0 +1,9 @@
+
+database = "db.blt"
+
+[xdcc]
+    [xdcc.abjects]
+    server = "irc.abjects.com:6667"
+    username = "l0rdt1nD3r"
+    nickname = "l0rdt1nD3r"
+    channels = ["#metropolis","#lalaland"]
